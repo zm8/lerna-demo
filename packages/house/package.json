@@ -6,6 +6,5 @@
   "dependencies": {
     "lodash": "^4.17.19",
     "react": "^16.13.1"
-  },
-  "gitHead": "56f6cbf07c188431754891afccc3b6e44e70a853"
+  }
 }

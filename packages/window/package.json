@@ -5,6 +5,5 @@
   "license": "MIT",
   "dependencies": {
     "co": "^4.6.0"
-  },
-  "gitHead": "56f6cbf07c188431754891afccc3b6e44e70a853"
+  }
 }
