@@ -1,5 +1,5 @@
 {
-  "name": "house",
+  "name": "sino-house",
   "version": "0.0.5",
   "main": "index.js",
   "license": "MIT",
@@ -7,5 +7,5 @@
     "lodash": "^4.17.19",
     "react": "^16.13.1"
   },
-  "gitHead": "16f4ef0cab191cb8b1dfcb5cf0196c6ce4767769"
+  "gitHead": "56f6cbf07c188431754891afccc3b6e44e70a853"
 }
