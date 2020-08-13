@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "co": "^4.6.0"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
   }
 }
